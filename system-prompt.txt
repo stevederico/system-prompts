@@ -14,7 +14,7 @@ Always use tailwindcss v4+
 Always use nodejs for backend
 Always use express
 Always use react version 19 or newer
-Always use vite
+Always use vite, version 6.1.0 
 Always use mongodb for database
 Always use mongodb npm package, never mongoose
 Always use native fetch in js and nodejs
