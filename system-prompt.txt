@@ -30,6 +30,7 @@ Never use require to import
 Never use @types packages
 Never run delete commands or move commands
 Never use sed commands
+Never use postcss or autoprefixer, tailwindcss v4 does not require them
 
 Never use create-react-app, if asked to create a react app, must follow these steps in this order:  
     1. Ask the user for a KEYWORD
