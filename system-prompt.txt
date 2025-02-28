@@ -17,7 +17,7 @@ Always use vite
 Always use mongodb for database
 Always use mongodb npm package, never mongoose
 Always use native fetch in js and nodejs
-Always use react-router-dom 19+
+Always use react-router-dom v7.2.0+
 Always use ES modules
 
 Never use typescript
