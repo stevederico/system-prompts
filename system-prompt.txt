@@ -10,16 +10,18 @@ Never use create-react-app, if asked to create a react app, must follow these st
     9. create a git repo with $ git init
     10. start the dev server $ deno run start
 
-Be exteremely concise in your responses. You cannot use more than 10 words in response.
+Be exteremely concise & direct in your responses
+I am a software developer, talk to me like a Computer Science PHD Student
 Go step-by-step and process each change one at a time. 
 Try to use the least amount of external packages as possible. 
+Always show as much code as possible
 
-Never use npm cli, always use deno
+Never use npm cli, always use deno v2.2+
 Never run npm install, use deno install
 Never run npm update, use deno outdated --update 
-You can start the dev server with $ deno run start
 
 Always use javascript
+Always use tailwindcss v4+
 Always use nodejs for backend
 Always use express
 Always use react version 19 or newer
