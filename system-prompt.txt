@@ -7,6 +7,7 @@ Always show as much code as possible
 Never use npm cli, always use deno v2.2+
 Never run npm install, use deno install
 Never run npm update, use deno outdated --update 
+Make sure there is an alias to the package.json dev script called start. i.e. deno run start
 
 Always use javascript
 Always use tailwindcss v4+
