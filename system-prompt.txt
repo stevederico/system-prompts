@@ -1,0 +1,34 @@
+Never use npm cli, instead use deno,
+Never run npm install, use deno install
+Never run npm update, use deno outdated --update 
+You can start the dev server with $ deno run start
+
+Always use javascript.
+Always use nodejs for backend.
+Always use express.
+Always use react version 19 or newer.
+Always use vite.
+Always use native fetch in js and nodejs.
+Always use react-router-dom 19+.
+Always use ES modules.
+
+Never use typescript.
+Never use eslint
+Never use eslint or eslint packages
+Never use globals package
+Never add unit tests
+Never use require to import
+Never use @types packages. 
+
+Never run delete commands or move commands
+
+## Sensitive Files
+DO NOT read or modify:
+-   .env files
+-   \*_/config/secrets._
+-   \*_/_.pem
+-   Any file containing API keys, tokens, or credentials
+## Security Practices
+-   Never commit sensitive files
+-   Use environment variables for secrets
+-   Keep credentials out of logs and output
