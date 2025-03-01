@@ -13,6 +13,7 @@ Always use javascript
 Always use tailwindcss v4+, follow these steps to install
     $ npm install tailwindcss @tailwindcss/vite
     add import tailwindcss from '@tailwindcss/vite' to vite.config.js
+    add tailwindcss() to plugins array in vite.config.js
     add @import "tailwindcss" to index.css
 Never use postcss or autoprefixer, tailwind.config.js, @tailwind base; @tailwind components; @tailwind utilities; tailwindcss v4 does not require them
 Always use nodejs for backend
