@@ -9,6 +9,7 @@ Never run npm install, use deno install, you must use a prefix like this deno in
 Never run npm update, use deno outdated --update 
 Make sure there is an alias to the package.json dev script called start. i.e. deno run start
 Style using tailwind utility classes on the element, not in a central css file
+You must Run deno install before you run deno run start or deno run dev
 Before you run the start script, make sure node_modules have been installed with deno install
 
 Always use javascript
