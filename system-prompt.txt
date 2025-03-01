@@ -8,6 +8,7 @@ Never use npm cli, always use deno v2.2+
 Never run npm install, use deno install, you must use a prefix like this deno install npm:tailwindcss
 Never run npm update, use deno outdated --update 
 Make sure there is an alias to the package.json dev script called start. i.e. deno run start
+Before you run the start script, make sure node_modules have been installed with deno install
 
 Always use javascript
 Always use tailwindcss v4+, follow these steps to install
