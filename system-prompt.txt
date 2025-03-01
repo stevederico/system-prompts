@@ -10,7 +10,11 @@ Never run npm update, use deno outdated --update
 Make sure there is an alias to the package.json dev script called start. i.e. deno run start
 
 Always use javascript
-Always use tailwindcss v4+
+Always use tailwindcss v4+, follow these steps to install
+    $ npm install tailwindcss @tailwindcss/vite
+    add import tailwindcss from '@tailwindcss/vite' to vite.config.js
+    add @import "tailwindcss" to index.css
+Never use postcss or autoprefixer, tailwind.config.js, @tailwind base; @tailwind components; @tailwind utilities; tailwindcss v4 does not require them
 Always use nodejs for backend
 Always use express
 Always use react version 19 or newer
@@ -30,7 +34,8 @@ Never use require to import
 Never use @types packages
 Never run delete commands or move commands
 Never use sed commands
-Never use postcss or autoprefixer, tailwindcss v4 does not require them
+
+
 
 Never use create-react-app, if asked to create a react app, must follow these steps in this order:  
     1. Ask the user for a KEYWORD
