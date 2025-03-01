@@ -11,6 +11,8 @@ Make sure there is an alias to the package.json dev script called start. i.e. de
 Style using tailwind utility classes on the element, not in a central css file
 You must Run deno install before you run deno run start or deno run dev
 Before you run the start script, make sure node_modules have been installed with deno install
+If constants.json already exists, you must update it. 
+Update the the title on index.html
 
 Always use javascript
 Always use tailwindcss v4+, follow these steps to install
