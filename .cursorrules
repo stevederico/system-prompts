@@ -1,0 +1,25 @@
+{
+  "rules": {
+    "max_lines_per_component": 200,
+    "enforce_simple_functions": true,
+    "max_function_lines": 50,
+    "max_parameters": 4,
+    "no_nested_ternaries": true,
+    "require_comments": {
+      "functions": true,
+      "complex_logic": true
+    },
+    "naming_conventions": {
+      "variables": "camelCase",
+      "functions": "camelCase",
+      "constants": "UPPER_CASE"
+    },
+    "avoid_deep_nesting": {
+      "max_depth": 3
+    },
+    "error_handling": {
+      "require_try_catch": true,
+      "no_empty_catch": true
+    }
+  }
+}
