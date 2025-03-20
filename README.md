@@ -22,6 +22,7 @@
     - add tailwindcss() to plugins array in vite.config.js
     - add @import "tailwindcss" to index.css
 - Never use postcss or autoprefixer, tailwind.config.js, @tailwind base; @tailwind components; @tailwind utilities; tailwindcss v4 does not require them
+- Always support dark mode, use bg-background, bg-accent for components, and do not specify a text color.
 - Always use nodejs for backend
 - Always use express
 - Always use react version 19 or newer
