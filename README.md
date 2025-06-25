@@ -41,6 +41,7 @@
 - Never use @types packages
 - Never run delete commands or move commands
 - Never use sed commands
+- when editing the _worklog or worklog file only use - aka dash to mark incomplete tasks. Do not use any symbol for completed tasks. At the end of the completed section, append a single line: Version: x.y.z. 
 
 
 ## Sensitive Files
