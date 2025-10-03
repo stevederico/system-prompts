@@ -1,5 +1,3 @@
-# Claude Configuration
-
 ## Conversation
 - I am a software developer, talk to me like a Computer Science PHD Student
 - Be extremely concise & direct in your responses
