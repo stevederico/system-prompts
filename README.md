@@ -1,15 +1,10 @@
-<h1 align="center" style="border-bottom: none; margin-bottom: 0;">System Prompts</h1>
+<h1 align="center" style="border-bottom: none; margin-bottom: 0;">AGENTS</h1>
 <h3 align="center" style="margin-top: 0; font-weight: normal;">
   how I configure AI coding agents
 </h3>
 
 <p align="center">
-  <a href="https://github.com/stevederico/ahoy">
-    <img src="https://img.shields.io/badge/auto--focus-ahoy-blue" alt="Ahoy">
-  </a>
-  <a href="https://github.com/stevederico/skateboard">
-    <img src="https://img.shields.io/badge/boilerplate-skateboard-green" alt="Skateboard">
-  </a>
+  <a href="https://github.com/stevederico/ahoy">ahoy</a> — multi-agent terminal focus · <a href="https://github.com/stevederico/skateboard">skateboard</a> — react starter kit
 </p>
 
 <br />

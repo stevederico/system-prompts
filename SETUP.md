@@ -71,6 +71,10 @@ Everything lives in a single dotfiles repo. A `setup.sh` script symlinks all con
 
 Run `setup.sh --doctor` to health-check all symlinks.
 
+## Multi-Agent: Ahoy
+
+When running multiple Claude Code sessions in parallel, [Ahoy](https://github.com/stevederico/ahoy) auto-focuses the right terminal tab when an agent needs input. Each session gets a unique name, emoji tab states show what each agent is doing, and voice alerts call out the agent name.
+
 ## Theme
 
 GitHub Dark everywhere: Ghostty, micro, bat, Zed. Consistent dark background across all tools.
