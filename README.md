@@ -34,7 +34,7 @@
 
 | Layer | Tools |
 |-------|-------|
-| Terminal | Ghostty, [tmux](https://github.com/tmux/tmux), micro |
+| Terminal | [Ghostty](https://github.com/ghostty-org/ghostty), [tmux](https://github.com/tmux/tmux), [micro](https://github.com/zyedidia/micro) |
 | Editor | [Zed](https://github.com/zed-industries/zed) |
 | Frontend | React 19, Vite 7, Tailwind v4, shadcn/ui |
 | Backend | Node.js, Hono, SQLite |
