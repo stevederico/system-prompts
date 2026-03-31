@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/stevederico/ahoy">ahoy</a> — multi-agent terminal focus · <a href="https://github.com/stevederico/skateboard">skateboard</a> — react starter kit
+  <a href="https://github.com/stevederico/ahoy">ahoy</a> — auto-focus and audio alert for multi-agent coding · <a href="https://github.com/stevederico/skateboard">skateboard</a> — react starter kit
 </p>
 
 <br />
@@ -39,13 +39,13 @@
 | Frontend | [React](https://github.com/facebook/react) 19, [Vite](https://github.com/vitejs/vite) 7, [Tailwind](https://github.com/tailwindlabs/tailwindcss) v4, [shadcn/ui](https://github.com/shadcn-ui/ui) |
 | Backend | [Node.js](https://github.com/nodejs/node), [Hono](https://github.com/honojs/hono), [SQLite](https://github.com/sqlite/sqlite) |
 | Runtime | [Deno](https://github.com/denoland/deno) |
-| AI | Claude Code with [Ahoy](https://github.com/stevederico/ahoy) for multi-agent focus |
+| AI | Claude Code with [Ahoy](https://github.com/stevederico/ahoy) for auto-focus and audio alert |
 
 <br />
 
 ## Related Projects
 
-- [ahoy](https://github.com/stevederico/ahoy) — Auto-focus terminal tabs across multi-agent sessions
+- [ahoy](https://github.com/stevederico/ahoy) — Auto-focus and audio alert for multi-agent coding
 - [skateboard](https://github.com/stevederico/skateboard) — React starter with auth, Stripe, shadcn, and SQLite
 - [skateboard-ui](https://github.com/stevederico/skateboard-ui) — Web component library
 
