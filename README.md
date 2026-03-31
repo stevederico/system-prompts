@@ -36,9 +36,9 @@
 |-------|-------|
 | Terminal | [Ghostty](https://github.com/ghostty-org/ghostty), [tmux](https://github.com/tmux/tmux), [micro](https://github.com/zyedidia/micro) |
 | Editor | [Zed](https://github.com/zed-industries/zed) |
-| Frontend | React 19, Vite 7, Tailwind v4, shadcn/ui |
-| Backend | Node.js, Hono, SQLite |
-| Runtime | Deno |
+| Frontend | [React](https://github.com/facebook/react) 19, [Vite](https://github.com/vitejs/vite) 7, [Tailwind](https://github.com/tailwindlabs/tailwindcss) v4, [shadcn/ui](https://github.com/shadcn-ui/ui) |
+| Backend | [Node.js](https://github.com/nodejs/node), [Hono](https://github.com/honojs/hono), [SQLite](https://github.com/sqlite/sqlite) |
+| Runtime | [Deno](https://github.com/denoland/deno) |
 | AI | Claude Code with [Ahoy](https://github.com/stevederico/ahoy) for multi-agent focus |
 
 <br />
