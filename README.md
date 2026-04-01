@@ -1,15 +1,15 @@
 # AGENTS
 
-how I configure agentic coding
+How I work with agentic coding assistants
 
 | File | Description |
 |------|-------------|
-| **[AGENTS.md](AGENTS.md)** | Global `CLAUDE.md` — coding standards, stack preferences, deployment patterns, git workflow, and agent behavior rules |
+| **[AGENTS.md](AGENTS.md)** | Global — coding standards, stack preferences, deployment patterns, git workflow, and agent behavior rules |
 | **[SETUP.md](SETUP.md)** | Dev environment — Ghostty, tmux, Zsh, micro/Zed, and how everything is wired together |
 
 ## How It Works
 
-`AGENTS.md` is my global `CLAUDE.md` file. Claude Code loads it at the start of every conversation across all projects. It defines:
+`AGENTS.md` is my global file. Coding Agent loads it at the start of every conversation across all projects. It defines:
 
 - **Coding standards** — naming, error handling, accessibility, API safety
 - **Stack** — React + Vite + Hono, Tailwind v4, shadcn/ui, Deno, SQLite
@@ -26,7 +26,7 @@ how I configure agentic coding
 | Frontend | [React](https://github.com/facebook/react) 19, [Vite](https://github.com/vitejs/vite) 7, [Tailwind](https://github.com/tailwindlabs/tailwindcss) v4, [shadcn/ui](https://github.com/shadcn-ui/ui) |
 | Backend | [Node.js](https://github.com/nodejs/node), [Hono](https://github.com/honojs/hono), [SQLite](https://github.com/sqlite/sqlite) |
 | Runtime | [Deno](https://github.com/denoland/deno) |
-| AI | Claude Code with [Ahoy](https://github.com/stevederico/ahoy) for auto-focus and audio alert |
+| AI | Coding Agent with [Ahoy](https://github.com/stevederico/ahoy) for auto-focus and audio alert |
 
 ## Related Projects
 
