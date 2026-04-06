@@ -30,6 +30,7 @@ How I work with agentic coding assistants
 
 ## Related Projects
 
+- [skills](https://github.com/stevederico/skills) — Custom agent skills and subagents for Claude and other LLMs
 - [ahoy](https://github.com/stevederico/ahoy) — Auto-focus and audio alert for multi-agent coding
 - [skateboard](https://github.com/stevederico/skateboard) — React starter with auth, Stripe, shadcn, and SQLite
 - [skateboard-ui](https://github.com/stevederico/skateboard-ui) — Web component library
